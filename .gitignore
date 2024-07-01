@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 .streamlit/
+.secrets/
+assets
 
 # C extensions
 *.so

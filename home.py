@@ -13,15 +13,16 @@ st.divider()
 st.write("Una paginita para un boopie muy bonito.")
 st.write("Okei la idea es que aqui puedo agregar cosas lindas para que tu las veas en momentos random del dia, yyyy lo mejor es que siempre pondre cosas distintas para que digas omg ahora que sera.")
 st.write("Un update jijiss para revivir la apps")
+st.write("🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝")
 st.divider()
 
 st.subheader("Primero la musiquita chida del momento")
 
-st.write("Miraa esta es una muy chida que honestamente yo la habia escuchado en algun lado y resulto que me encanto")
+st.write("Quien sabe si te guste pero esta cooools, no ando taan viciada con esta porq ahora ando escuchando mucha salsa la vdd")
 
 components.html(
     """
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1b6F3QgBBg7HND2hfY6Tav?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7t01uN0kyKMEK8Ow9hhEXa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 """,
 height=365
 )
